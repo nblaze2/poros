@@ -1,5 +1,3 @@
-# lib/puppy.rb
-
 class Puppy
   attr_reader :name, :breed
 
